@@ -1,0 +1,14 @@
+F:\Intern-BS23\Day-02\Sample_Banking_System\Sample_Banking_System\bin\Debug\net8.0\Sample_Banking_System.exe
+F:\Intern-BS23\Day-02\Sample_Banking_System\Sample_Banking_System\bin\Debug\net8.0\Sample_Banking_System.deps.json
+F:\Intern-BS23\Day-02\Sample_Banking_System\Sample_Banking_System\bin\Debug\net8.0\Sample_Banking_System.runtimeconfig.json
+F:\Intern-BS23\Day-02\Sample_Banking_System\Sample_Banking_System\bin\Debug\net8.0\Sample_Banking_System.dll
+F:\Intern-BS23\Day-02\Sample_Banking_System\Sample_Banking_System\bin\Debug\net8.0\Sample_Banking_System.pdb
+F:\Intern-BS23\Day-02\Sample_Banking_System\Sample_Banking_System\obj\Debug\net8.0\Sample_Banking_System.GeneratedMSBuildEditorConfig.editorconfig
+F:\Intern-BS23\Day-02\Sample_Banking_System\Sample_Banking_System\obj\Debug\net8.0\Sample_Banking_System.AssemblyInfoInputs.cache
+F:\Intern-BS23\Day-02\Sample_Banking_System\Sample_Banking_System\obj\Debug\net8.0\Sample_Banking_System.AssemblyInfo.cs
+F:\Intern-BS23\Day-02\Sample_Banking_System\Sample_Banking_System\obj\Debug\net8.0\Sample_Banking_System.csproj.CoreCompileInputs.cache
+F:\Intern-BS23\Day-02\Sample_Banking_System\Sample_Banking_System\obj\Debug\net8.0\Sample_Banking_System.dll
+F:\Intern-BS23\Day-02\Sample_Banking_System\Sample_Banking_System\obj\Debug\net8.0\refint\Sample_Banking_System.dll
+F:\Intern-BS23\Day-02\Sample_Banking_System\Sample_Banking_System\obj\Debug\net8.0\Sample_Banking_System.pdb
+F:\Intern-BS23\Day-02\Sample_Banking_System\Sample_Banking_System\obj\Debug\net8.0\Sample_Banking_System.genruntimeconfig.cache
+F:\Intern-BS23\Day-02\Sample_Banking_System\Sample_Banking_System\obj\Debug\net8.0\ref\Sample_Banking_System.dll

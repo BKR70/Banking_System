@@ -9,8 +9,7 @@ namespace Sample_Banking_System
     
     public class SavingsAccount : BankAccount {
         
-        private double interestrate = 0;
-        public double totalbalance = 0;
+        private static double interestrate = 0;
         public double InterestRate
         {
             get
@@ -22,10 +21,11 @@ namespace Sample_Banking_System
                 interestrate = value;
             }
         }
-        public double SavingsAccountTotalBalance()
+        public double TotalBalanceAfterApplyInterest()
         {
-            totalbalance = inibalance + (inibalance * interestrate / 100);
-            return totalbalance;
+            double interest = (totalbalance * interestrate / 100);
+            totalbalance = totalbalance + interest;
+            return interest;
         }
         
     }

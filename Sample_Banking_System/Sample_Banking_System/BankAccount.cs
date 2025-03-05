@@ -30,11 +30,11 @@ namespace Sample_Banking_System
             }
             set { inibalance = value; }
         }
-        public void Withdraw(double amount)
+        public void MoneyWithdraw(double amount)
         {
             totalbalance -= amount;
         }
-        public double Deposit(double depositamount)
+        public double MoneyDeposit(double depositamount)
         {
             totalbalance += depositamount;
             return totalbalance;

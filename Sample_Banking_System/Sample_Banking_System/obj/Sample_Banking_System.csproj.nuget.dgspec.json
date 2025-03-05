@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BILAS KUMAR\\Desktop\\Banking_System\\Sample_Banking_System\\Sample_Banking_System\\Sample_Banking_System.csproj": {}
+    "F:\\Intern-BS23\\Day-02\\Sample_Banking_System\\Sample_Banking_System\\Sample_Banking_System.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BILAS KUMAR\\Desktop\\Banking_System\\Sample_Banking_System\\Sample_Banking_System\\Sample_Banking_System.csproj": {
+    "F:\\Intern-BS23\\Day-02\\Sample_Banking_System\\Sample_Banking_System\\Sample_Banking_System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BILAS KUMAR\\Desktop\\Banking_System\\Sample_Banking_System\\Sample_Banking_System\\Sample_Banking_System.csproj",
+        "projectUniqueName": "F:\\Intern-BS23\\Day-02\\Sample_Banking_System\\Sample_Banking_System\\Sample_Banking_System.csproj",
         "projectName": "Sample_Banking_System",
-        "projectPath": "C:\\Users\\BILAS KUMAR\\Desktop\\Banking_System\\Sample_Banking_System\\Sample_Banking_System\\Sample_Banking_System.csproj",
+        "projectPath": "F:\\Intern-BS23\\Day-02\\Sample_Banking_System\\Sample_Banking_System\\Sample_Banking_System.csproj",
         "packagesPath": "C:\\Users\\BILAS KUMAR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BILAS KUMAR\\Desktop\\Banking_System\\Sample_Banking_System\\Sample_Banking_System\\obj\\",
+        "outputPath": "F:\\Intern-BS23\\Day-02\\Sample_Banking_System\\Sample_Banking_System\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Contact Us";
+}
+<div class="contactUs contactuus">
+    <div style="text-align:center">
+        <h2>Contact Us</h2>
+        <p>We'd love to hear from you! Whether you have questions, feedback, or need support, feel free to reach out to us.</p>
+    </div>
+    <div class="row">
+        <div class="column">
+            <form action="/action_page.php">
+                <label for="fname">Full Name</label>
+                <input type="text" id="fullname" name="fullname" placeholder="Your name..">
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" placeholder="Your email..">
+                <label for="subject">Message</label>
+                <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+    </div>
+</div>

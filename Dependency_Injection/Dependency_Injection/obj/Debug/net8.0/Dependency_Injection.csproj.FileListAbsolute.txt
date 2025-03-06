@@ -1,0 +1,14 @@
+F:\Intern-BS23\Day-04\Dependency_Injection\Dependency_Injection\bin\Debug\net8.0\Dependency_Injection.exe
+F:\Intern-BS23\Day-04\Dependency_Injection\Dependency_Injection\bin\Debug\net8.0\Dependency_Injection.deps.json
+F:\Intern-BS23\Day-04\Dependency_Injection\Dependency_Injection\bin\Debug\net8.0\Dependency_Injection.runtimeconfig.json
+F:\Intern-BS23\Day-04\Dependency_Injection\Dependency_Injection\bin\Debug\net8.0\Dependency_Injection.dll
+F:\Intern-BS23\Day-04\Dependency_Injection\Dependency_Injection\bin\Debug\net8.0\Dependency_Injection.pdb
+F:\Intern-BS23\Day-04\Dependency_Injection\Dependency_Injection\obj\Debug\net8.0\Dependency_Injection.GeneratedMSBuildEditorConfig.editorconfig
+F:\Intern-BS23\Day-04\Dependency_Injection\Dependency_Injection\obj\Debug\net8.0\Dependency_Injection.AssemblyInfoInputs.cache
+F:\Intern-BS23\Day-04\Dependency_Injection\Dependency_Injection\obj\Debug\net8.0\Dependency_Injection.AssemblyInfo.cs
+F:\Intern-BS23\Day-04\Dependency_Injection\Dependency_Injection\obj\Debug\net8.0\Dependency_Injection.csproj.CoreCompileInputs.cache
+F:\Intern-BS23\Day-04\Dependency_Injection\Dependency_Injection\obj\Debug\net8.0\Dependency_Injection.dll
+F:\Intern-BS23\Day-04\Dependency_Injection\Dependency_Injection\obj\Debug\net8.0\refint\Dependency_Injection.dll
+F:\Intern-BS23\Day-04\Dependency_Injection\Dependency_Injection\obj\Debug\net8.0\Dependency_Injection.pdb
+F:\Intern-BS23\Day-04\Dependency_Injection\Dependency_Injection\obj\Debug\net8.0\Dependency_Injection.genruntimeconfig.cache
+F:\Intern-BS23\Day-04\Dependency_Injection\Dependency_Injection\obj\Debug\net8.0\ref\Dependency_Injection.dll
